@@ -68,7 +68,7 @@ Guides
 ### Resources
 - [idiomatic.js](https://github.com/rwaldron/idiomatic.js)
 - [ES lint](https://eslint.org/docs/rules)
-- [Slides](slides.com/onel0p3z/libertyjs2018)
+- [Slides](https://slides.com/onel0p3z/libertyjs2018)
 
 
 ## TALK - Everything You Need to Know About JS Accessibility
