@@ -111,7 +111,9 @@ Guides
 
 ## TALK - CSS for Backend Developers: How to Stop Fearing Your Stylesheets
 
-- Speaker - [@vivgui](https://twitter.com/vivgui) [Site](https://codequeen.io)
+- Speaker
+    - [@vivgui](https://twitter.com/vivgui)
+    - [Site](https://codequeen.io)
 
 ### CSS is completely logical and does have order and structure
 
@@ -119,7 +121,7 @@ Guides
 
 ### Key takeaway - *Structure*
 - Box Model
-    - ![Box Model](box_model.png)
+![Box Model](box_model.png)
 - Positioning
     - Allows you to take elements out of the normal document layout flow, and make them behave differently
 - Specificity
