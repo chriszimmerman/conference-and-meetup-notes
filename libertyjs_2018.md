@@ -77,6 +77,8 @@ Guides
 
 - [WebAIM](https://webaim.org/)
 
+- [Github](https://github.com/karlgroves/axsdialog)
+
 ## TALK - Mastering Web Performance Beyond Milliseconds
 
 ### Speed - How fast could we possibly go?
