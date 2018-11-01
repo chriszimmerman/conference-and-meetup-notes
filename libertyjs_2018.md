@@ -137,6 +137,6 @@ Guides
 ### Theory
 - TensorFlow.js
 
-[Resources]
+### Resources
 - [Classifier UI](https://thekevinscott.github.io/ml-classifier-ui/)
 - [ml5 js](https://ml5js.org/)
