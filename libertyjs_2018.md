@@ -110,7 +110,6 @@ Guides
 
 #### "The perception of performance is just as effective as actual performance in many cases."
 
-
 ## TALK - CSS for Backend Developers: How to Stop Fearing Your Stylesheets
 
 - Speaker
@@ -130,3 +129,14 @@ Guides
 - More exact selectors
 - Using ids
 - The ultimate specificity fix is your worst nightmre. Don't use `!important`
+
+## TALK - Ask What AI Can Do For You - Machine Learning In Javascript
+
+[Site](https://thekevinscott.com/libertyjs)
+
+### Theory
+- TensorFlow.js
+
+[Resources]
+- [Classifier UI](https://thekevinscott.github.io/ml-classifier-ui/)
+- [ml5 js](https://ml5js.org/)
