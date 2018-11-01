@@ -140,3 +140,33 @@ Guides
 ### Resources
 - [Classifier UI](https://thekevinscott.github.io/ml-classifier-ui/)
 - [ml5 js](https://ml5js.org/)
+
+## TALK - Composing Music With Composed Functions
+- [Adam Giese](https://twitter.com/adamgiesedev)
+
+### Pure functions
+- Given the same arguments, it will return the same value
+- No side effects
+
+### Immutability
+- Preserves state
+- Easier to reason about
+    - Prevents unintentional side effects
+    - No need to keep track of changes
+    - Declarative
+- Higher order functions
+
+### Closure
+- A function and access to its enclosed state
+
+### Partial application
+
+### Composition
+
+- Libraries
+    - ramda
+    - tonejs
+
+### Why?
+
+It forces you to break down problems into their smallest parts
