@@ -2,7 +2,7 @@
 
 ## War stories of coding standards
 
-Twitter: @onel0p3z
+Twitter: [@onel0p3z](https://twitter.com/onel0p3z)
 
 ### Standards
 
@@ -31,10 +31,10 @@ When?
 
 ### Linting & Formatting
 
-JS Hint
-standard JS
-XO
-Prettier
+- JS Hint
+- standard JS
+- XO
+- Prettier
 
 - mostly in a config file (i.e. .eslintrc)
 
@@ -51,4 +51,21 @@ Guides
 
 ### Antipatterns (oh no you didn't!)
 - Disable comments
-    - // eslint-disable-next-line
+    - `// eslint-disable-next-line`
+- Ignore commit hooks
+
+### What about the monsters?
+- ego (yourself)
+- educate
+    - if you're the expert on the team, bring others up to your level
+
+### Takeaways
+    - Always have a plan
+    - Document the h*ck out of it
+    - Enforce & delegate; it's a *team effort*
+    - Continuous improvement
+
+### Resources
+    -[idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+    -[ES lint](https://eslint.org/docs/rules)
+    -[Slides](slides.com/onel0p3z/libertyjs2018)
