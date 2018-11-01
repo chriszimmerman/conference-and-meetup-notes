@@ -1,6 +1,6 @@
 # Liberty JS Notes
 
-## War stories of coding standards
+## TALK - War stories of coding standards
 
 Twitter: [@onel0p3z](https://twitter.com/onel0p3z)
 
@@ -43,11 +43,11 @@ git hooks via [husky](https://npm.im/husky)
 
 ### Examples of Implementations
 Guides
-    - Airbnb
-    - Google
+- Airbnb
+- Google
 
 ### Configuration
-    - eslint - recommended
+- eslint - recommended
 
 ### Antipatterns (oh no you didn't!)
 - Disable comments
@@ -60,24 +60,24 @@ Guides
     - if you're the expert on the team, bring others up to your level
 
 ### Takeaways
-    - Always have a plan
-    - Document the h*ck out of it
-    - Enforce & delegate; it's a *team effort*
-    - Continuous improvement
+- Always have a plan
+- Document the h*ck out of it
+- Enforce & delegate; it's a *team effort*
+- Continuous improvement
 
 ### Resources
-    -[idiomatic.js](https://github.com/rwaldron/idiomatic.js)
-    -[ES lint](https://eslint.org/docs/rules)
-    -[Slides](slides.com/onel0p3z/libertyjs2018)
+[idiomatic.js](https://github.com/rwaldron/idiomatic.js)
+[ES lint](https://eslint.org/docs/rules)
+[Slides](slides.com/onel0p3z/libertyjs2018)
 
 
-## Everything You Need to Know About JS Accessibility
+## TALK - Everything You Need to Know About JS Accessibility
 
 - [Karl Groves](https://twitter.com/karlgroves)
 
 - [WebAIM](https://webaim.org/)
 
-## Mastering Web Performance Beyond Milliseconds
+## TALK - Mastering Web Performance Beyond Milliseconds
 
 ### Speed - How fast could we possibly go?
 
@@ -107,3 +107,22 @@ Guides
 -More complex animation
 
 #### "The perception of performance is just as effective as actual performance in many cases."
+
+
+## TALK - CSS for Backend Developers: How to Stop Fearing Your Stylesheets
+
+- Speaker - [@vivgui](https://twitter.com/vivgui) [Site](https://codequeen.io)
+
+### CSS is completely logical and does have order and structure
+
+### Always treat CSS as a first class citizen in your project
+
+### Key takeaway - *Structure*
+- Box Model
+    - ![Box Model](box_model.png)
+- Positioning
+    - Allows you to take elements out of the normal document layout flow, and make them behave differently
+- Specificity
+- More exact selectors
+- Using ids
+- The ultimate specificity fix is your worst nightmre. Don't use `!important`
