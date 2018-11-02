@@ -171,9 +171,9 @@ Guides
 
 It forces you to break down problems into their smallest parts
 
-## Lean coffee
+## TALK - Lean coffee
 
-## Embracing the "Native" of React Native
+## TALK - Embracing the "Native" of React Native
 
 - React Native does NOT
     - Render to a Dom
@@ -183,7 +183,7 @@ It forces you to break down problems into their smallest parts
 
 [React Native](https://facebook.github.io/react-native/)
 
-## Front end Testing You Won't Hate
+## TALK - Front end Testing You Won't Hate
 
 [Will Mitchell](https://twitter.com/wvmitchell)
 
@@ -200,7 +200,7 @@ It forces you to break down problems into their smallest parts
 
 ### mount vs shallow
 
-## Asynchronous JS
+## WORKSHOP - Asynchronous JS
 
 [GitHub workshop](https://github.com/timothyjellison/async-js)
 
