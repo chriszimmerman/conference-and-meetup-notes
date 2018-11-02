@@ -171,7 +171,9 @@ Guides
 
 It forces you to break down problems into their smallest parts
 
-## Embraacing the "Native" of React Native
+## Lean coffee
+
+## Embracing the "Native" of React Native
 
 - React Native does NOT
     - Render to a Dom
