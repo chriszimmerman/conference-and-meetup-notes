@@ -202,5 +202,5 @@ It forces you to break down problems into their smallest parts
 
 ## Asynchronous JS
 
-[GitHub workshop](https://github.com/timothyjellison/async-js
+[GitHub workshop](https://github.com/timothyjellison/async-js)
 
