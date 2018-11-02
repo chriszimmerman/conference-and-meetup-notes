@@ -170,3 +170,30 @@ Guides
 ### Why?
 
 It forces you to break down problems into their smallest parts
+
+## Embraacing the "Native" of React Native
+
+- React Native does NOT
+    - Render to a Dom
+    - Compile JS code into Java / Obj-c
+- React Native DOES
+    -Render native views via native SDKs
+
+[React Native](https://facebook.github.io/react-native/)
+
+## Front end Testing You Won't Hate
+
+[Will Mitchell](https://twitter.com/wvmitchell)
+
+### Tests are veggies for our code
+
+[Repo](https://github.com/wvmitchell/eat_yo_veggies)
+
+### Testing with Jest
+- Asserting things
+- Mocking
+- Snapshots
+
+### Enyzme 
+
+### mount vs shallow
