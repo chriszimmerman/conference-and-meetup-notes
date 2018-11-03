@@ -134,6 +134,8 @@ Guides
 
 [Site](https://thekevinscott.com/libertyjs)
 
+[Slides](https://thekevinscott.github.io/presentations-libertyjs/#1)
+
 ### Theory
 - TensorFlow.js
 
@@ -183,6 +185,8 @@ It forces you to break down problems into their smallest parts
 
 [React Native](https://facebook.github.io/react-native/)
 
+[Slides](https://docs.google.com/presentation/d/1TVRWi4UqmfgIViJuze2zEf1BKAR0kskwPXzPpKpqrjY/edit#slide=id.g43c6e6b308_0_656)
+
 ## TALK - Front end Testing You Won't Hate
 
 [Will Mitchell](https://twitter.com/wvmitchell)
@@ -204,3 +208,30 @@ It forces you to break down problems into their smallest parts
 
 [GitHub workshop](https://github.com/timothyjellison/async-js)
 
+## WORKSHOP - Animations in Vue.js
+
+[Slides](https://docs.google.com/presentation/d/1ikjeHUTEb4YJE8ykO_Wr_tSfTIxN1WJXQSryh8NalhM/edit#slide=id.g443f5b0c33_0_56)
+
+## TALK - How To Learn Anything (and Teach JavaScript)
+
+[@ramblinjan](https://twitter.com/ramblinjan)
+
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vSdZLj-rIUg2r88MNEwY9z0Y8UuwPmSEG-lnPs6JJOi3NkaC0ugIipr3SpYRHoy6BH-qUjSKpt7vow7/pub?start=false&amp;loop=false&amp;delayms=5000&amp;slide=id.g439b93dd87_0_0#slide=id.g439b93dd87_0_0)
+
+[Book List From Talk](https://www.amazon.com/ideas/amzn1.account.AESHA7EKQVSCOPXZUUNSF32JZMPA/1RCDGN61A8XFH)
+
+## TALK - Web Authentication - Imagine A World Without Passwords
+
+[@subyraman](https://twitter.com/subyraman)
+
+[Slides](https://drive.google.com/file/d/18npt21FNgPfi0-aJB4n9aIoZ1aVf2LhZ/view)
+
+## TALK - What's All The Fuss About Serverless?
+
+[Slides](https://github.com/TaylorKrusen/LibertyJS_Slides)
+
+## TALK - The Variable Crimes We Commit Against JavaScript
+
+[@jgrodel](https://twitter.com/jgrodel)
+
+[Slides](https://docs.google.com/presentation/d/1RLJ9FA2svec3kXXTGcEGlOdmhnn5DHA7jfRKr-2LbxA/edit#slide=id.g3bd61eb4f2_0_7)
