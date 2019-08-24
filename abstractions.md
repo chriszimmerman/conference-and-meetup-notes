@@ -226,7 +226,7 @@ Progressive Disclosure
 
 Design to make it easy to know what's going on
 
-[grammarly](https://grammar.ly)
+[grammarly](https://grammarly.com)
 
 I am the *data subject*
 
