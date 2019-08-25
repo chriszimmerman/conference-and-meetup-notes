@@ -6,7 +6,7 @@
 
 - Average electric car has 100 million lines of code
 
-- Research paper - Killed by Code: Software Transparency in Medical Devices
+- Research paper - [Killed by Code: Software Transparency in Medical Devices](https://www.softwarefreedom.org/resources/2010/transparent-medical-devices.html)
 
 - Lack of diversity in regard to testing
     - Soap dispensers
@@ -16,7 +16,7 @@ Devices requiring your data to be sent to a central place
     - Fitbit
     - "Smart" toothbrushes
 
-"I Agree" - Dima Yarovinsky
+["I Agree" - Dima Yarovinsky](https://www.dimayarovinsky.com/i-agree)
 - average of three months doing nothing else to read
 
 ## Your Work Has Moral Implications
@@ -56,7 +56,7 @@ Brass Tacks
 - Look for a new job
 - Walk out
 
-Malpratice - James Spruell & Mustafa Kamal
+[Malpratice - James Spruell & Mustafa Kamal](https://www.researchgate.net/publication/254084319_DEFECTIVE_SOFTWARE_THE_ISSUES_OF_MALPRACTICE_NEGLIGENCE_FRAUD_MISREPRESENTATION)
 
 ## Code Reviews - That's A Great Idea!
 
@@ -95,7 +95,7 @@ Avoid "test environments" as much as possible
 
 ## Games UX
 
-A Theory of Fun - Raph Kester
+[A Theory of Fun - Raph Kester](https://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/ref=sr_1_1?keywords=a+theory+of+fun+-+raph+koster&qid=1566760654&s=gateway&sr=8-1)
 
 ## Working With A Team in 12 timezones
 
@@ -200,7 +200,7 @@ Contentment Debt
 
 No budget is limitless
 
-`Lean UX` by Jeff Gothelf & Josh Seiden
+[`Lean UX` by Jeff Gothelf & Josh Seiden](https://www.amazon.com/Lean-UX-Designing-Great-Products/dp/1491953608/ref=sr_1_1?keywords=lean+ux&qid=1566760879&s=gateway&sr=8-1)
 
 It is not "brave" to embrace anti-patterns
 
@@ -280,8 +280,7 @@ What do we do now?
 
 Imagine a world where we're not coupled to the browser
 
-
-## Sean Kelly
+## Effective Engineering: Step Away from the Keyboard
 
 ### Communication
 - Tools like slack & confluence are *NOT* the communication, they are just tools
@@ -292,11 +291,8 @@ Imagine a world where we're not coupled to the browser
 - Up to engineers to develop collaborative relationships
 - Don't let boredom with tech keep you from learning (e.g. spoken language)
 
-
 ## Writing a synth in python
 
-`shaded` - python library
+`shaded` - python library - [github](https://github.com/RemyPorter/ShadowMusic)
 
 Remy Porter
-
-github - remy-porter
