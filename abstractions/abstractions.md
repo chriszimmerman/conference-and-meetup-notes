@@ -1,4 +1,4 @@
-# Abstrations
+# Abstractions
 
 ## Wednesday
 
